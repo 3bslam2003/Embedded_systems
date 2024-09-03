@@ -1,3 +1,8 @@
+/*
+Name    : Ahmed Mohamed
+Course  : Embedded systems
+Subject : Adding tow matrix using 2D array
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
