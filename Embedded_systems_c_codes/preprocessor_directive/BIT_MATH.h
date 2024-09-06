@@ -10,8 +10,8 @@
  */
  
  
- #ifndef BIT_MATH_h_
- #define BIT_MATH_h_
+ #ifndef BIT_MATH_H_
+ #define BIT_MATH_H_
  
  
  
