@@ -11,8 +11,8 @@
  
  
  
- #ifndef STD_TYPES_h
- #define STD_TYPES_h
+ #ifndef STD_TYPES_H_
+ #define STD_TYPES_H_
  
  
 typedef bool u1;
