@@ -15,7 +15,7 @@
  #define STD_TYPES_H_
  
  
-typedef bool u1;
+
 typedef unsigned char          u8    ;
 typedef signed char            u_8   ; 
 typedef unsigned short int     u16   ;
