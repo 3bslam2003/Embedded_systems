@@ -1,0 +1,39 @@
+/*
+ *<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>   STD_TYPES.h  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ NAME    : Ahmed Mohamed Abdelsalam
+ COURSE  : Embedded Systems
+ TOPIC   : Types of data
+ *
+ * 
+ *
+ *
+ */
+ 
+ 
+ 
+ #ifndef STD_TYPES_H_
+ #define STD_TYPES_H_
+ 
+ 
+
+typedef unsigned char          u8    ;
+typedef signed char            u_8   ; 
+typedef unsigned short int     u16   ;
+typedef signed short int       u_16  ;
+typedef unsigned  int          u32   ;
+typedef signed  int            u_32  ;
+typedef unsigned long long int u64   ;
+typedef signed long long int   u_64  ;
+typedef float                  lu_32 ;
+typedef double                 lu_64 ;
+typedef long double            lu_128; 
+
+#define Nok   0
+#define Ok    1
+#define IDLE  1
+#define Busy  0
+#define Null  0
+#define TIME_OUT_STATE 5
+#define Null_pointer 0
+#endif
+  
